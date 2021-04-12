@@ -1,0 +1,14 @@
+{
+  "name": "mern-starter",
+  "version": "1.0.0",
+  "description": "my best shop starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammad mairzaee barazi",
+  "license": "ISC",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
